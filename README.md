@@ -29,7 +29,7 @@ Built using Python and Tkinter for the graphical user interface (GUI) and MySQL 
 
 2. Set up the MySQL database:
     - Create a new database called `studentdb`.
-    - 
+      
     ```python
     conn = mysql.connector.connect(
         host="localhost",  # change to your host
@@ -49,8 +49,11 @@ Built using Python and Tkinter for the graphical user interface (GUI) and MySQL 
 
 ## Screenshots
 
+1) Adding a student details
 ![Option1](https://github.com/user-attachments/assets/740dce05-9c38-4aca-bd7a-16e32718a35a)
 
+2) Searching of a student
 ![Option2](https://github.com/user-attachments/assets/ffcb8bb3-225d-4c7e-b7da-8e79b07b1b4a)
 
+3) Data store in MySQL
 ![Option13](https://github.com/user-attachments/assets/86f88dc1-51da-4f6a-9428-17b0685b1e55)
